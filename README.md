@@ -48,7 +48,7 @@ I love creating software that solves real problems and improves people's lives. 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cpp,cs,java,js,vscode,vs,html,css,figma,illustrator,bootstrap,mysql,nodejs,enterprisearchitect&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,cpp,cs,java,js,vscode,visualstudio,html,css,figma,illustrator,bootstrap,mysql,nodejs,enterprisearchitect&perline=14" />
   </a>
 </p>
 
